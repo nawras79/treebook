@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+.darkBG  {
+  background: #999;
+}
+.darkerBG  {
+  background: #666;
+}
+.darkestBG  {
+  background: #333;
+}
+
+body { padding-top: 70px; }
+
